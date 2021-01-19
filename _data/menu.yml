@@ -1,40 +1,44 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-entries:
-  - title: Rome. IT
+# entries:
+#   - title: Rome. IT
     # entries:
     #   - title: Rome. IT
     #   - title: github repo
     #     url: https://github.com/spherical-technologies
       # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-
   - title: current projects
     entries:
-      - title: with subitems
+      - title: hardware
         entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+          - title: S.T.ONE
+          - title: S.T.REC
+          - title: S.T.OSS
 
-  - title: posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: categories
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-
-  - title: PRO TIP
+  - title: pages
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: about
+        url: about
+
+  # - title: posts
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See archive...
+  #     show_more_url: archive.html
+  #
+  # - title: categories
+  #   post_list:
+  #     category: example2
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
+  #
+  # - title: rss
+  #   url: feed.xml
+  #
+  # - title: PRO TIP
+  #   entries:
+  #     - title: to edit this menu, edit _data/menu.yml file
