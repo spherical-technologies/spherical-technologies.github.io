@@ -8,29 +8,32 @@
     #     url: https://github.com/spherical-technologies
       # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 entries:
+
+  - title: about
+    url: about
+
   - title: current projects
     entries:
       - title: S.T.ONE
         url: stone
+        show_more_text: Concert Loudspeaker.
       - title: S.T.REC
         url: strec
+        show_more_text: Spaced Microphones Recording Technique.
       - title: S.T.OSS
         url: stoss
+        show_more_text: Semi-coincident Microphones Recording Technique.
       - title: S.T.LIB
         url: stlib
+        show_more_text: Open-source libraries for PD and Faust to operate with spherical technologies. 
 
-  - title: pages
-    entries:
-      - title: about
-        url: about
+  - title: posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
 
-  # - title: posts
-  #   post_list:
-  #     limit: 5
-  #     show_more: true
-  #     show_more_text: See archive...
-  #     show_more_url: archive.html
-  #
   # - title: categories
   #   post_list:
   #     category: example2
