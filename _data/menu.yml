@@ -10,15 +10,14 @@
 entries:
   - title: current projects
     entries:
-      - title: hardware
-        entries:
-          - title: S.T.ONE
-            Spherical Tetrahedral ONE
-          - title: S.T.REC
-          - title: S.T.OSS
-      - title: software
-        entries:
-          - title: S.T.LIB
+      - title: S.T.ONE
+        url: stone
+      - title: S.T.REC
+        url: strec
+      - title: S.T.OSS
+        url: stoss
+      - title: S.T.LIB
+        url: stlib
 
   - title: pages
     entries:
