@@ -7,6 +7,8 @@ baseurl: "" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
   Omnidirectional Points of Listening. Rome, IT.
 
+timezone: Europe/Rome
+
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
