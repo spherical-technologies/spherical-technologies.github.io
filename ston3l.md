@@ -1,6 +1,6 @@
 ---
 layout: page
-title: S.T.LIB
+title: S.T.ON3L
 ---
 
 This is an example page!
