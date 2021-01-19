@@ -3,6 +3,7 @@
     <li>
     {%- if item.url -%}
       <a href="{{ item.url }}">{{ item.title }}</a>
+      {{ item.show_more_text }}
     {%- else -%}
       {{ item.title }}
       {{ item.show_more_text }}
