@@ -22,10 +22,10 @@ entries:
         url: ston3l
       - title: S.T.REC
         url: strec
-        show_more_text: Spaced Microphones Recording Technique to produce tridimensional POV:POL sources.
+        show_more_text: Spaced Microphones Recording Technique to produce tridimensional POV:POL of sources.
       - title: S.T.OSS
         url: stoss
-        show_more_text: Semi-coincident Microphones Recording Technique.
+        show_more_text: Semi-coincident Microphones Recording Technique to produce hi-quality tridimensional recordings.
       - title: S.T.LIB
         url: stlib
         show_more_text: Open-source libraries for PD and Faust to operate with spherical technologies.
