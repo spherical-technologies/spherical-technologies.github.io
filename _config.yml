@@ -4,7 +4,7 @@ email: info@sphericaltechnologies.net # email of site's author
 url: https://www.sphericaltechnologies.net # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
-  Spherical Technologies for Omnidirectional Points of Listening
+  Omnidirectional Points of Listening
 
 permalink: /:slug.html
 
