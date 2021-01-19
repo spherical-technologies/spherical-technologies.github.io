@@ -15,11 +15,15 @@ entries:
   - title: current projects
     entries:
       - title: S.T.ONE
-        show_more_text: Concert Loudspeaker.
+        show_more_text: 400W Concert Loudspeaker.
         url: stone
+      - title: S.T.ON3L
+        show_more_text: 2000W Concert Loudspeaker with LFE.
+        url: ston3l
       - title: S.T.REC
         url: strec
-        show_more_text: Spaced Microphones Recording Technique.
+        show_more_text: > #
+        Spaced Microphones Recording Technique to produce tridimensional POV:POL sources.
       - title: S.T.OSS
         url: stoss
         show_more_text: Semi-coincident Microphones Recording Technique.
