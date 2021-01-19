@@ -13,8 +13,12 @@ entries:
       - title: hardware
         entries:
           - title: S.T.ONE
+            Spherical Tetrahedral ONE
           - title: S.T.REC
           - title: S.T.OSS
+      - title: software
+        entries:
+          - title: S.T.LIB
 
   - title: pages
     entries:
