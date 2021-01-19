@@ -15,8 +15,8 @@ entries:
   - title: current projects
     entries:
       - title: S.T.ONE
-        url: stone
         show_more_text: Concert Loudspeaker.
+        url: stone
       - title: S.T.REC
         url: strec
         show_more_text: Spaced Microphones Recording Technique.
@@ -25,7 +25,7 @@ entries:
         show_more_text: Semi-coincident Microphones Recording Technique.
       - title: S.T.LIB
         url: stlib
-        show_more_text: Open-source libraries for PD and Faust to operate with spherical technologies. 
+        show_more_text: Open-source libraries for PD and Faust to operate with spherical technologies.
 
   - title: posts
     post_list:
