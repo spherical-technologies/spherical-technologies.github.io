@@ -24,7 +24,7 @@ html, body { background: #fcfcfc; }
 html { height: 100%; }
 
 body {
-  color: #191919;
+  color: #333333;
   font-family: 'Alegreya', serif;
   font-size: 1.3rem;
   line-height: 1.3;
@@ -74,7 +74,7 @@ table, th, td {
 
 code {
   color: #fcfcfc;
-  background: #191919;
+  background: #333333;
 }
 
 div.highlighter-rouge code {
@@ -85,7 +85,7 @@ div.highlighter-rouge code {
 
 blockquote {
   font-style: italic;
-  border: thin solid #191919;
+  border: thin solid #333333;
   padding: 1rem;
 
   p { margin: 0; }
